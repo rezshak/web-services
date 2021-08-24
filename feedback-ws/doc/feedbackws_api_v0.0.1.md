@@ -72,15 +72,11 @@ Web service is unauthenticated.
       "gender": "FEMALE",
       "feedbacks": [
           {
-              "id": "55d097dc-18eb-4bca-9bd0-63c26d0999e0",
-              "patientId": "b3db2be0-1b2f-45eb-8fc7-5c72fba379ab",
               "npi": "1245319599",
               "rating": 8,
               "comment": "Very attentive doctor"
           },
           {
-              "id": "d0367f4e-16a3-478a-ace9-d4c43248f5c8",
-              "patientId": "b3db2be0-1b2f-45eb-8fc7-5c72fba379ab",
               "npi": "1245319588",
               "rating": 2,
               "comment": "Had to wait way too long"

@@ -217,7 +217,7 @@ Web service is unauthenticated.
 
 ### List All Patient Feedbacks
 
-**Endpoint: GET /patient/{id/feedback**
+**Endpoint: GET /patient/{id}/feedback**
 
 - Description: List all feedbacks for a patient based the patient ID.
 

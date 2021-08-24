@@ -65,7 +65,6 @@ Web service is unauthenticated.
 
   ```json
   {
-      "id": "b3db2be0-1b2f-45eb-8fc7-5c72fba379ab",
       "firstName": "Barbara",
       "lastName": "Zimmerman",
       "birthDate": "1964-03-06",

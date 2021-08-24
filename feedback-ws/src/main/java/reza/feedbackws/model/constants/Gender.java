@@ -16,11 +16,4 @@ public enum Gender {
         return description;
     }
 
-    @Override
-    public String toString() {
-        return "Gender{" +
-                "description='" + description + '\'' +
-                '}';
-    }
-
 }

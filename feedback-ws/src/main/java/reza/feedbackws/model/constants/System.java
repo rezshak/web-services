@@ -15,11 +15,4 @@ public enum System {
         return description;
     }
 
-    @Override
-    public String toString() {
-        return "System{" +
-                "description='" + description + '\'' +
-                '}';
-    }
-
 }
